@@ -21,5 +21,3 @@ Note though the SciPy package already has a function that can compute the center
 
 https://docs.scipy.org/doc/scipy-0.16.1/reference/generated/scipy.ndimage.measurements.center_of_mass.html
 
-Steps to Get Started (mostly shown in class):
-Do this assignment individually (no teams, so you won't have any problems with git merge conflicts.)
