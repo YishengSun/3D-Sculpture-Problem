@@ -34,8 +34,4 @@ As shown in the video and in class session 4, create a new PyCharm project from 
 Now in PyCharm, write the code needed to make the functions and tests work properly.
 COMMIT AND PUSH revisions frequently as you work on it, until complete.
 INCLUDE the output text files in your GitHub repository to make checking your calculations easier.
-BONUS CREDIT!
-You can get extra credit on this assignment by doing either of these things:
 
-Writing enough Doctests in your program so that the Doctests With Coverage report in PyCharm shows at least 95% for the numpy_marble_solution.py file.
-Configuring TravisCI to work on your repository and showing proof, such taking a screenshot of your build history and committing that screen shot image into your GitHub repository where we can see it. Remember you get TravisCI free as part of the GitHub "StudentPack"
