@@ -23,15 +23,3 @@ https://docs.scipy.org/doc/scipy-0.16.1/reference/generated/scipy.ndimage.measur
 
 Steps to Get Started (mostly shown in class):
 Do this assignment individually (no teams, so you won't have any problems with git merge conflicts.)
-Create one and only one fork of this repository.
-In the GitHub website, immediately go to your new repository,
-click "Settings" tab
-click "Collaborators & Teams"
-click the X to REMOVE the "All_Students" team from having access to your repository. Warning! We'll deduct 20% from your score if you don't.
-Return to the <Code> tab in YOUR new repository in GitHub.
-Click "Clone or Download" to get the link you need for PyCharm.
-As shown in the video and in class session 4, create a new PyCharm project from your repository.
-Now in PyCharm, write the code needed to make the functions and tests work properly.
-COMMIT AND PUSH revisions frequently as you work on it, until complete.
-INCLUDE the output text files in your GitHub repository to make checking your calculations easier.
-
